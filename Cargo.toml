@@ -1,0 +1,6 @@
+[workspace]
+members = [
+    "custom_bitreader",
+    "custom_dispatcher",
+    "custom_parser",
+]
